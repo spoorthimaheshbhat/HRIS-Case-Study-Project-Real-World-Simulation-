@@ -1,6 +1,6 @@
 # HRIS Employee Lifecycle Management System
 
-### Business Analysis & QA Case Study (2026 | Self-Initiated)
+### Project Design & QA Case Study (2026 | Self-Initiated)
 
 ---
 
