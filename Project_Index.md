@@ -31,6 +31,10 @@ Focus:
 
 Contains:
 
+* Case Study
+* Scope and Plan
+* Stakeholders and Context
+
 
 ---
 
