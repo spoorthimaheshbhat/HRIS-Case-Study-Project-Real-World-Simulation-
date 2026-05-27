@@ -172,8 +172,7 @@ This project demonstrates the ability to:
 ## Author
 
 **Spoorthi M**
-MBA Graduate | Certified Scrum Master (CSM)
-Aspiring Business Analyst with 4.5+ years of QA experience
+MBA Graduate | Certified Scrum Master (CSM) | 5 years of Functional Workflow QA experience
 
 ---
 
